@@ -1,6 +1,4 @@
 SD-MAX-SMT-DBG0.2-1PIST
 siete
 ocho
-nueve
-diez
-once
+doce
