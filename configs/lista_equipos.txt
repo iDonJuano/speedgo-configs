@@ -1,3 +1,3 @@
 SD-MAX-SMT-DBG0.2-1PIST
-equipo21
-equipo19
+equipo2
+equipo12
